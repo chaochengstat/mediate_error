@@ -4,7 +4,6 @@
 #                                                                                  #
 #       Mediation analysis in the presence of exposure measurement error under     #
 #                   main study/validation study designs                            #
-#                            from Multiple Studies                                 #
 #                                                                                  #
 #                   For any question please contact Chao Cheng                     #   
 #                         Email: c.cheng@yale.edu                                  #
